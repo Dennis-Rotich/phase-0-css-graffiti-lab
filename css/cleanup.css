@@ -1,1 +1,20 @@
-/* write your override styles here */
+#wall .tag-1{
+    display: none;
+}
+.parent #tag-5{
+    border-top-color: black;
+    margin: 0 auto;
+}
+#tag-6{
+    display: none;
+}
+.parent #tag-7{
+    border-top-color: beige;
+    margin: 0 auto;
+}
+#wall #tag-2{
+    display: none;
+}
+#wall #tag-3{
+    display: none;
+}/* write your override styles here */
